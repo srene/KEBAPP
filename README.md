@@ -1,5 +1,5 @@
-NFD on Android
-==============
+NFD on Android with KEBAPP modifications
+========================================
 
 [![Build Status](https://travis-ci.org/named-data-mobile/NFD-android.svg?branch=master)](https://travis-ci.org/named-data-mobile/NFD-android)
 
