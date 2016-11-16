@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="net.named_data.nfd"
+    android:versionCode="9004001"
+    android:versionName="0.2.1 (NFD 0.4.0-3-g4100646)" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/nfd_app"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="net.named_data.nfd.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="net.named_data.nfd.service.NfdService"
+            android:exported="true"
+            android:icon="@drawable/ic_launcher"
+            android:label="@string/service_name"
+            android:process="net.named_data.nfd.service.NfdService" >
+            <intent-filter>
+                <action android:name="net.named_data.nfd.START_NFD_SERVICE" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

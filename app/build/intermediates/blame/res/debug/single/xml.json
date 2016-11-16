@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/srene/workspace/kebapp/NFD-android/app/build/intermediates/res/merged/debug/xml/pref_face.xml",
+        "source": "/home/srene/workspace/kebapp/NFD-android/app/src/main/res/xml/pref_face.xml"
+    },
+    {
+        "merged": "/home/srene/workspace/kebapp/NFD-android/app/build/intermediates/res/merged/debug/xml/pref_routes.xml",
+        "source": "/home/srene/workspace/kebapp/NFD-android/app/src/main/res/xml/pref_routes.xml"
+    }
+]

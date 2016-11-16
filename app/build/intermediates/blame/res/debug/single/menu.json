@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/srene/workspace/kebapp/NFD-android/app/build/intermediates/res/merged/debug/menu/menu_face_list_multiple_modal_menu.xml",
+        "source": "/home/srene/workspace/kebapp/NFD-android/app/src/main/res/menu/menu_face_list_multiple_modal_menu.xml"
+    },
+    {
+        "merged": "/home/srene/workspace/kebapp/NFD-android/app/build/intermediates/res/merged/debug/menu/menu_logcat_settings.xml",
+        "source": "/home/srene/workspace/kebapp/NFD-android/app/src/main/res/menu/menu_logcat_settings.xml"
+    },
+    {
+        "merged": "/home/srene/workspace/kebapp/NFD-android/app/build/intermediates/res/merged/debug/menu/menu_logcat_settings_multiple_modal_menu.xml",
+        "source": "/home/srene/workspace/kebapp/NFD-android/app/src/main/res/menu/menu_logcat_settings_multiple_modal_menu.xml"
+    },
+    {
+        "merged": "/home/srene/workspace/kebapp/NFD-android/app/build/intermediates/res/merged/debug/menu/menu_log.xml",
+        "source": "/home/srene/workspace/kebapp/NFD-android/app/src/main/res/menu/menu_log.xml"
+    },
+    {
+        "merged": "/home/srene/workspace/kebapp/NFD-android/app/build/intermediates/res/merged/debug/menu/menu_route_list.xml",
+        "source": "/home/srene/workspace/kebapp/NFD-android/app/src/main/res/menu/menu_route_list.xml"
+    },
+    {
+        "merged": "/home/srene/workspace/kebapp/NFD-android/app/build/intermediates/res/merged/debug/menu/menu_face_list.xml",
+        "source": "/home/srene/workspace/kebapp/NFD-android/app/src/main/res/menu/menu_face_list.xml"
+    }
+]
